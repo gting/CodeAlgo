@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EventCompare:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EventCompare_jar</output-path>
+    <root id="archive" name="EventCompare.jar">
+      <element id="module-output" name="EventCompare" />
+      <element id="extracted-dir" path="E:/郭婷/工作/Jar包/userFunctionNov11.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

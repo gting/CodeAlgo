@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Timedifference:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Timedifference_jar</output-path>
+    <root id="archive" name="Timedifference.jar">
+      <element id="module-output" name="Timedifference" />
+      <element id="extracted-dir" path="E:/郭婷/文档/userfunction-sdk.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

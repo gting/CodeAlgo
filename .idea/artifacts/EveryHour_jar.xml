@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EveryHour:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EveryHour_jar</output-path>
+    <root id="archive" name="EveryHour.jar">
+      <element id="module-output" name="EveryHour" />
+    </root>
+  </artifact>
+</component>

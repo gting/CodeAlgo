@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TY860:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TY860_jar</output-path>
+    <root id="archive" name="TY860.jar">
+      <element id="module-output" name="TY860" />
+      <element id="extracted-dir" path="E:/郭婷/工作/Jar包/TestUserFunction0605.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
